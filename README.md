@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201180906177.png" width=220 />
+</p>
+<p align="center">
+	<a href="https://github.com/qnscholar/zotero-if/releases"><img src="https://img.shields.io/badge/release-v0.0.4-blue?logo=github" alt="GitHub release" /></a>
+	<a href="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171141964.png"><img src="https://img.shields.io/badge/公众号-青柠学术-orange?logo=wechat" alt="公众号" /></a>
+</p>
+
 # Zotero IF
 一款可以为 Zotero 文献更新【影响因子】的效率工具，不过远不止于此。
 
