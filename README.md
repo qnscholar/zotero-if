@@ -34,7 +34,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 1. 扫码关注【**青柠学术**】公众号，👇后台回复关键词`Zotero IF`获取插件 xpi 文件；
 
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171237137.png" width=800 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171237137.png" width=600 />
 </p>
 
 2. 进入 Zotero 菜单`Tools-->Add-ons`，点击右上角小齿轮，然后点击 **Install add-on from file...**，选择 zotero-if.xpi 插件，完成安装；
