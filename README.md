@@ -73,7 +73,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 #### 关于快捷键
 
-1. Zotero Beta 的 Windows 用户，由于`Ctrl + 9`和`Ctrl +0`快捷键与 Zotero 的 PDF 标签页切换快捷键冲突，因此无法使用，请通过右键菜单操作。
+1. Zotero Beta 的 Windows 用户，由于`Ctrl + 9`和`Ctrl + 0`快捷键与 Zotero 的 PDF 标签页切换快捷键冲突，因此无法使用，请通过右键菜单操作。
 
 ## ❤️ 关注我
 
