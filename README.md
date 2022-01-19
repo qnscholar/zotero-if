@@ -15,6 +15,10 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 ## 使用说明
 
+下方内容待更新，请先移步[公众号推文](https://mp.weixin.qq.com/s/M6EyocRzgdMLbtrK6BL0_Q)，了解`1.0.0`版用法。（很大改动）
+
+---
+
 1. 🎓 选择文献（可多选），在右键菜单中点击 Update IF，即可更新 IF；
 1. 📁 选中 Collection（分类），在右键菜单中点击 Update IF，即可为该分类下的所有文献更新 IF；
 1. ⌨️ IF 更新【快捷键】：`Ctrl + 1`；（仅针对选中的文献，而非 Collection）
