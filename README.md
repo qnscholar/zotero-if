@@ -18,12 +18,16 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 1. 🎓 选择文献（可多选），在右键菜单中点击 Update IF(s)，或按下快捷键`Ctrl + 9`；
 2. 🏷️ 新添加的文献，会自动更新影响因子，并添加`/unread`待读标签；
-3. 📌 JCR IF 和中科院分区分别在 CallNumber 和 Library Catalog 字段显示；
+3. 📌 JCR IF 和中科院分区分别在【索取号/CallNumber】和【馆藏目录/Library Catalog】字段显示；
 4. ✅ 支持最新版 IF（JCR 2020）和中科院分区升级版（2021.12）；
 5. ⌨️ 快捷键: `Ctrl + 9`【添加 IF】`Ctrl + 0` 【清除 IF】
 
+
+---
+
 Zotero IF `v1.0.0`详细说明文档，请移步[公众号推文](https://mp.weixin.qq.com/s/M6EyocRzgdMLbtrK6BL0_Q)。
 
+---
 
 ## 下载安装
 
