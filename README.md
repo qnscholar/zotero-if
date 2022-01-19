@@ -60,6 +60,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 ## 🔔 必读 & 反馈
 
+### 关于 JCR IF
 
 1. 更新完 IF 后，请手动调出 索取号/CallNumber 列，才能在主界面看到 IF，点击【列标题】可以按照 IF 降（升）序排列；
 2. 索取号 = 引用次数 = CallNumber
@@ -69,6 +70,10 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 6. 如果一些 Zotero 文献匹配不到 IF，可借助[这个网站](https://ijournal.topeditsci.com/home)，检查该文献所属期刊是否为 SCI，以及期刊名是否与官方标准写法相同（不区分大小写）；
 7. 对于因 Zotero 文献的期刊名不标准，而无法匹配的情况，请将这些期刊名的【不标准写法】汇总到一个`Excel`文档中，并发到我邮箱 iseexuhs@icloud.com。邮件主题备注为：【期刊不标准写法】 - 你的昵称；
 8. 根据搜集到的期刊名【不标准写法】，未来我会考虑在插件中加入【修正期刊名】功能。尽量使得所有 SCI 论文都能匹配到 IF。
+
+### 关于快捷键
+
+1. Zotero Beta 的 Windows 用户，由于`Ctrl + 9`和`Ctrl +0`快捷键与 Zotero 的 PDF 标签页切换快捷键冲突，因此无法使用，请通过右键菜单操作。
 
 ## ❤️ 关注我
 
