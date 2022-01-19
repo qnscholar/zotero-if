@@ -41,7 +41,7 @@ Zotero IF `v1.0.0`详细说明文档，请移步[公众号推文](https://mp.wei
 3. 在 Zotero 的首选项中，有 Zotero IF 插件的使用说明、以及一些相关资源。👇
 
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20211230211442.png" width=800 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201190842285.png" width=800 />
 </p>
 
 ## 💡 更多新功能预告
