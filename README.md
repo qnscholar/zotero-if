@@ -15,7 +15,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 ## 使用说明
 
-下方说明文档待更新，请先移步[公众号推文](https://mp.weixin.qq.com/s/M6EyocRzgdMLbtrK6BL0_Q)，了解 Zotero IF `1.0.0`版用法。（有很大改动）
+下方说明文档待更新，请先移步[公众号推文](https://mp.weixin.qq.com/s/M6EyocRzgdMLbtrK6BL0_Q)，了解 Zotero IF `v1.0.0` 用法。（有很大改动）
 
 ---
 
