@@ -67,7 +67,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 3. 本插件根据期刊名（Publication）字段匹配 IF；
 4. JCR IF 只针对 SCI 期刊论文，所以诸如会议论文、学位论文是不会更新 IF 的；
 5. IF 来自于 JCR 官方标准数据库，该库中的期刊名为官方标准写法；
-6. 如果一些 Zotero 文献匹配不到 IF，可借助[这个网站](https://ijournal.topeditsci.com/home)，检查该文献所属期刊是否为 SCI，以及期刊名是否与官方标准写法相同（不区分大小写）；
+6. 如果一些 Zotero 文献匹配不到 IF，可借助[这个网站](http://letpub.com.cn)，检查该文献所属期刊是否为 SCI，以及期刊名是否与官方标准写法相同（不区分大小写）；
 7. 对于因 Zotero 文献的期刊名不标准，而无法匹配的情况，请将这些期刊名的【不标准写法】汇总到一个`Excel`文档中，并发到我邮箱 iseexuhs@icloud.com。邮件主题备注为：【期刊不标准写法】 - 你的昵称；
 8. 根据搜集到的期刊名【不标准写法】，未来我会考虑在插件中加入【修正期刊名】功能。尽量使得所有 SCI 论文都能匹配到 IF。
 
