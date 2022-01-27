@@ -25,7 +25,7 @@ An efficient tool for updating JCR IF for Zotero Items, and far more than that.
 
 ---
 
-🍉 [Zotero IF](https://github.com/qnscholar/zotero-if) 和 [Zotero IF Pro](https://github.com/qnscholar/zotero-if-pro) 功能对比，请移步[公众号推文](https://mp.weixin.qq.com/s/M6EyocRzgdMLbtrK6BL0_Q)。
+🍉 想体验更强的功能？不妨试试 [Zotero IF Pro](https://github.com/qnscholar/zotero-if-pro)。
 
 ---
 
