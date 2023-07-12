@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "zoteroif@qnscholar": {
+      "updates": [
+        {
+          "version": "1.5.1",
+          "update_link": "https://github.com/qnscholar/zotero-if/releases/download/v1.5.1/zoteroif-v1.5.1.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
