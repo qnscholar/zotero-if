@@ -22,7 +22,7 @@ Update IF for Zotero Items.
 
 
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202307121736947.png" width=800 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202307121736947.png" width=600 />
 </p>
 
 ## 📌注意
