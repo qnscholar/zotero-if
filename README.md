@@ -4,7 +4,8 @@
 <p align="center">
 	<a href="https://www.zotero.org"><img src="https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936" alt="Zotero 7" /></a>
 	<a href="https://github.com/qnscholar/zotero-if/releases"><img src="https://img.shields.io/github/v/release/qnscholar/zotero-if?color=blue&logo=github" alt="GitHub release" /></a>
-	<a href="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20240306202447.png"><img src="https://img.shields.io/badge/公众号-青柠学术-orange?logo=wechat" alt="公众号" /></a>
+	<a href="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/202201171141964.png"><img src="https://img.shields.io/badge/公众号-青柠学术-orange?logo=wechat" alt="公众号" /></a>
+	
 </p>
 
 # Zotero IF
@@ -23,7 +24,7 @@ Update IF for Zotero Items.
 
 
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20231229211139.png" width=600 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20240306202447.png" width=600 />
 </p>
 
 ## 📌 注意
