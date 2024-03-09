@@ -24,7 +24,7 @@ Update IF for Zotero Items.
 
 
 <p align="center">
-  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20240306202447.png" width=600 />
+  <img src="https://figurebed-iseex.oss-cn-hangzhou.aliyuncs.com/img/20240310014250.png" width=600 />
 </p>
 
 ## 📌 注意
