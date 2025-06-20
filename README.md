@@ -29,7 +29,7 @@ Update IF for Zotero Items.
 
 ## 📌 注意
 
-Zotero IF `v1.5.1` 及以上版本仅适用于 Zotero 7。Zotero 6 用户请安装 [Zotero IF v1.5.0](https://github.com/qnscholar/zotero-if/releases/tag/v1.5.0)。
+Zotero IF `v1.5.1` 及以上版本仅适用于 Zotero 7。Zotero 6 不再支持。
 
 ## 🌟 Star History
 
