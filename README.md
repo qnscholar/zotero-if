@@ -28,8 +28,8 @@ Update IF for Zotero Items.
 </p>
 
 ## 📌 注意
-
-Zotero IF `v1.5.1` 及以上版本仅适用于 Zotero 7。Zotero 6 不再支持。
+- Zotero IF `v1.5.8` 及以上版本适用于 Zotero 7/8。
+- Zotero 6 不再支持。
 
 ## 🌟 Star History
 
