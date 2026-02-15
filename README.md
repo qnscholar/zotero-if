@@ -8,7 +8,7 @@
 	
 </p>
 
-# Zotero IF
+# ZotIF
 
 Update IF for Zotero Items.
 
@@ -28,7 +28,7 @@ Update IF for Zotero Items.
 </p>
 
 ## 📌 注意
-- Zotero IF `v1.5.8` 及以上版本适用于 Zotero 7/8。
+- ZotIF `v1.5.8` 及以上版本适用于 Zotero 7/8。
 - Zotero 6 不再支持。
 
 ## 🌟 Star History
