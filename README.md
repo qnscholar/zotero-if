@@ -18,7 +18,7 @@ Update IF for Zotero Items.
 
 
 1. 🎓 选择（可多选）文献，在右键菜单中点击 Update IF(s)。
-2. 🏷️ 新添加的文献，会自动更新 JCR IF 和中科院分区。
+2. 🏷️ 新添加的文献，会自动更新 JCR IF 和分区表。
 3. 📌 JCR IF 和中科院分区分别在【文库编目/Library Catalog】和【索取号/CallNumber】字段显示；
 4. ✅ 数据：JCR IF（`2025.06.18`）和分区表（`2026.03.24`）；
 
