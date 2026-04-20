@@ -28,7 +28,7 @@ Update IF for Zotero Items.
 </p>
 
 ## 📌 注意
-- 适用于 Zotero 7/8/9。
+- 适用于 Zotero 7/8/9/10。
 
 ## 🌟 Star History
 
