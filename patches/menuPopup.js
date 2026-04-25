@@ -55,10 +55,6 @@ ZoteroIF_MenuPopup = {
         };
 
         let configureMenuItem = (event, context) => {
-            let menuElem = context && context.menuElem;
-            if (menuElem) {
-                menuElem.setAttribute('label', '更新 IF / 分区 [Zotero IF]');
-            }
             let enabled = this._hasSelectedRegularItems(context);
             if (context && context.setEnabled) {
                 context.setEnabled(enabled);
@@ -76,6 +72,7 @@ ZoteroIF_MenuPopup = {
                 menus: [
                     {
                         menuType: 'menuitem',
+                        l10nID: 'zotero-zoteroif-update-if',
                         icon: 'chrome://zoteroif/content/icons/favicon.png',
                         onShowing: configureMenuItem,
                         onCommand: updateSelectedItemsIF
@@ -89,6 +86,7 @@ ZoteroIF_MenuPopup = {
                 menus: [
                     {
                         menuType: 'menuitem',
+                        l10nID: 'zotero-zoteroif-update-if',
                         icon: 'chrome://zoteroif/content/icons/favicon.png',
                         enableForTabTypes: ['library'],
                         onShowing: configureMenuItem,

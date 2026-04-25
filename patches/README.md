@@ -12,10 +12,10 @@ during plugin startup are silently discarded, so Zotero IF's right-click
 The patched `menuPopup.js` adds a new code path that uses Zotero 8's
 `Zotero.MenuManager.registerMenu()` API when it is available:
 
-- **`main/library/item`** — right-click a selected item to see
-  "更新 IF / 分区 [Zotero IF]".
-- **`main/menubar/tools`** — the same action also appears in the top-level
-  Tools menu.
+- **`main/library/item`** — right-click a selected item to see the localized
+  "Update IF(s)" action.
+- **`main/menubar/tools`** — the same localized action also appears in the
+  top-level Tools menu.
 
 If `Zotero.MenuManager` is not present (Zotero 7 and earlier), the plugin
 falls back to the original direct-DOM-insertion logic, so no existing behavior
@@ -33,10 +33,10 @@ is broken.
 1. Unzip the released `.xpi`.
 2. Replace `chrome/content/scripts/menuPopup.js` with the file in this
    directory.
-3. In `manifest.json`, change `strict_max_version` from `"7.0.*"` to `"999.*"`.
+3. In `manifest.json`, change `strict_max_version` from `"10.9.*"` to `"999.*"`.
 4. Re-zip and install.
 
 ## Tested on
 
-- Zotero 8 (Windows 11)
+- Zotero 8.0.4 (Windows)
 - Plugin version 1.6.0 (base) → 1.6.0.2 (patched)
