@@ -1,0 +1,12 @@
+{
+  "description": "Changes to manifest.json for Zotero 8 compatibility",
+  "changes": [
+    {
+      "field": "applications.zotero.strict_max_version",
+      "original": "7.0.*",
+      "patched": "999.*",
+      "reason": "Allow installation on Zotero 8 and future versions"
+    }
+  ],
+  "note": "The version field may be updated by the maintainer as appropriate."
+}
