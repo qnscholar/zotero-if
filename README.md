@@ -32,4 +32,4 @@ Update IF for Zotero Items.
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=qnscholar/zotero-if&type=Timeline)](https://star-history.com/#qnscholar/zotero-if&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=qnscholar/zotero-if&type=Timeline)](https://star-history.dera.page/#qnscholar/zotero-if&Timeline)
